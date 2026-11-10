@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-ammar--hashmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/X-@[ammar__hashmi](https://x.com/ammarhashmiiit?s=11)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-ammar--iitm-2B1055?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ammar-iitm&style=for-the-badge&color=FF2A6D" />
+  <a href="https://www.linkedin.com/in/ammarhashmi1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ammarhashmi1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ammarhashmiiit" target="_blank">
+    <img src="https://img.shields.io/badge/X-@ammarhashmiiit-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://github.com/ammar-iitm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ammar--iitm-2B1055?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ammar-iitm&style=for-the-badge&color=FF2A6D" alt="Profile views" />
 </p>
-
-<!--
-  ✏️ Quick edit guide:
-  - Swap the LinkedIn/X badge URLs above (the text after the last "/") to your real handles.
-  - Every card below reads live from your GitHub username (ammar-iitm) — no edits needed there.
--->
 
 ---
 
@@ -30,20 +30,39 @@
 
 > 🔬 Currently exploring **Machine Learning · Deep Learning · Web Development**
 
-<!-- Add more lines here as your experience grows, e.g.:
- Intern              →  Company Name
- Open Source Contrib  →  Project Name
--->
-
 ---
 
 ## 🧰 Tech Stack & Tools
 
+### 💻 Languages & Web
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,html,css,js,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,java&theme=dark" alt="Languages and web" />
 </p>
+
+### 🤖 Gen AI · LLMs · Agents
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-7B2FF7?style=for-the-badge" alt="Stable Diffusion" />
+</p>
+
+### 🧠 ML & Deep Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
 ---
@@ -54,37 +73,34 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar-iitm&theme=2077" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ammar-iitm&theme=2077" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ammar-iitm&theme=2077" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ammar-iitm&theme=2077"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ammar-iitm&theme=2077" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ammar-iitm&theme=2077" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar-iitm&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar-iitm&theme=synthwave-84&hide_border=true&radius=10" width="100%"/>
-</p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-<!-- Add your achievements/certifications here, e.g.:
-🏅 Certification Name — Issuer
-✅ Course Name — Platform
--->
-
-> _Add your achievements, badges, or certifications here as you earn them._
+| | Achievement | Details |
+|---|-------------|---------|
+| 🏦 | **Razorpay AI Buildathon** | Built a solo AI Risk Manager agent for fraud and dispute risk, with human-approval gating and a tamper-evident audit log. [🔗 Repo](https://github.com/ammar-iitm/razorpay-risk-agent) |
+| 🌏 | **GCI World Course, University of Tokyo** | Enrolled in the Matsuo-Iwasawa Lab data science course, Sept–Dec 2026 cohort. |
+| 🇮🇳 | **Smart India Hackathon 2026** | Ongoing: team "The Layers", PS 26053, building FoveaMap, a deep-learning Lidar pipeline for variable-resolution 2.5D semantic mapping. [🔗 Repo](https://github.com/ammar-iitm/foveamap) |
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project | Description | Link |
+| Project | What it does & impact | Link |
 |--------|-------------|-----------|
-| ⏱️ Pomodoro Timer | A Pomodoro-based productivity/focus timer | [🔗 Demo](https://pomodorojungle.in) |
-
-<!-- Add more rows as you build more projects, e.g.:
-| 🚀 Project Name | One-line description | [🔗 Repo](https://github.com/ammar-iitm/repo-name) |
--->
+| 🛡️ **Razorpay AI Risk Agent** | Claude-powered agent that scores payment fraud and dispute risk, gates every action behind a human-approval policy, and records it in a tamper-evident audit log; 97.55% recall at its review-gate threshold on 6.36M PaySim transactions. | [🔗 Repo](https://github.com/ammar-iitm/razorpay-risk-agent) |
+| 🛰️ **FoveaMap** | Deep-learning pipeline that turns Lidar point clouds into a variable-resolution (foveated) 2.5D semantic map, built as my SIH 2026 entry. | [🔗 Repo](https://github.com/ammar-iitm/foveamap) |
+| 🚁 **Drone Sim Platform** | Drone simulation platform for flight and testing. | [🔗 Live](https://drone-sim-platform.vercel.app/mission) · [Repo](https://github.com/ammar-iitm/drone-sim-platform) |
+| ⏱️ **Pomodoro Jungle** | Gamified focus timer where you grow a virtual tree by focusing, live at pomodorojungle.in. | [🔗 Demo](https://pomodorojungle.in) |
+| 🐧 **System Commands Book** | Interactive book for the IIT Madras BS System Commands (SE2001) course, with Light, Dark and Reading modes. | [🔗 Repo](https://github.com/ammar-iitm/system-commands-book) |
+| 🧠 **ML Foundations Book** | Turned a 74-page handwritten Machine Learning Foundations notebook (60 lectures, by Kshitij Maheshwari) into a clean, typeset HTML book. | [🔗 Repo](https://github.com/ammar-iitm/machine-learning-foundations) |
+| 🌳 **PDSA Interactive Book** | Interactive study book for PDSA (BSCS2002) with quizzes, visualisers and a mock-exam tool, so students can practise instead of only reading. | [🔗 Live](https://pdsaiitm.vercel.app) · [Repo](https://github.com/ammar-iitm/pdsaiitm) |
+| 🥗 **NutriPlanner** | Budget-friendly Indian nutrition planner with user-entered local food prices and cloud-synced accounts. | [🔗 Repo](https://github.com/ammar-iitm/AlphaNutrition) |
 
 ---
 
@@ -92,7 +108,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ammar-iitm&theme=radical&margin-w=10&row=1&column=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ammar-iitm&theme=radical&margin-w=10&row=1&column=8)
 
 </div>
 
@@ -100,22 +116,26 @@
 
 ## 👨‍💻 Terminal Mode
 
-```bash
-> whoami
+<pre>
+&gt; whoami
 👨‍💻 Ammar Hashmi | Data Science @ IIT Madras
 
-> pwd
+&gt; pwd
 ~/projects/ml-and-web
 
-> ls -a
-📁 Pomodoro-Timer
-📁 ML-Projects
-📁 Open-Source
+&gt; ls -a
+📁 <a href="https://github.com/ammar-iitm/razorpay-risk-agent">razorpay-risk-agent</a>
+📁 <a href="https://github.com/ammar-iitm/drone-sim-platform">drone-sim-platform</a>
+📁 <a href="https://github.com/ammar-iitm/AlphaNutrition">AlphaNutrition</a>
+📁 <a href="https://github.com/ammar-iitm/foveamap">foveamap</a>
+📁 <a href="https://github.com/ammar-iitm/system-commands-book">system-commands-book</a>
+📁 <a href="https://github.com/ammar-iitm/machine-learning-foundations">machine-learning-foundations</a>
+📁 <a href="https://github.com/ammar-iitm/pdsaiitm">pdsaiitm</a>
 
-> cat goals.txt
-- Build impactful ML & web projects 🚀
+&gt; cat goals.txt
+- Build impactful ML &amp; web projects 🚀
 - Keep learning, keep shipping 💻
-```
+</pre>
 
 Building today what tomorrow will run on. — Ammar Hashmi
 
